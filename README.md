@@ -1,3 +1,3 @@
-A basic React Redux Web App.
+A basic React Redux Web App, with login and counter
 
-Made just to implement the basic functionnality of Redux. 
+Made just to implement the basic functionnality of Redux.
